@@ -1,0 +1,112 @@
+{
+  "goldSponsors": [
+    {
+      "href": "#",
+      "imgSrc": "/city/hyderabad/sponsors/placeholder.png",
+      "alt": "Place Holder Sponsorship Image",
+      "name": "This Could Be You!"
+    }
+  ],
+  "silverSponsors": [
+    {
+      "href": "#",
+      "imgSrc": "/city/hyderabad/sponsors/placeholder.png",
+      "alt": "Place Holder Sponsorship Image",
+      "name": "This Could Be You!"
+    }
+  ],
+  "bronzeSponsors": [
+    {
+      "href": "https://www.linuxfoundation.org/",
+      "imgSrc": "/city/hyderabad/sponsors/the-linux-foundation.png",
+      "alt": "The Linux Foundation",
+      "name": "The Linux Foundation"
+    }
+  ],
+  "inKindSponsors": [
+    {
+      "href": "https://gen.xyz/",
+      "imgSrc": "/city/hyderabad/sponsors/gen-xyz.png",
+      "alt": ".xyz Domains",
+      "name": ".xyz Domains"
+    },
+    {
+      "href": "https://www.bluecloudsoftech.com/",
+      "imgSrc": "/city/hyderabad/sponsors/blue-cloud-softech.png",
+      "alt": "Blue Cloud Softech",
+      "name": "Blue Cloud Softech"
+    }
+  ],
+  "ourTeam": [
+    {
+      "name": "Sannihith Madasu",
+      "email": "sannihithmadasu@gmail.com",
+      "linkedInUsername": "@sannihithmadasu",
+      "linkedInProfile": "https://www.linkedin.com/in/sannihithmadasu/",
+      "designation": "Lead Organizer",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/sannihith-madasu.jpeg"
+    },
+    {
+      "name": "Atharv Kopparthi",
+      "email": "atharv.kopp@gmail.com",
+      "linkedInUsername": "N/A",
+      "linkedInProfile": "#",
+      "designation": "Co-Organizer",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/atharv-kopparthi.jpg"
+    },
+    {
+      "name": "Katta Hima Vamsi",
+      "email": "hvkatta@gmail.com",
+      "linkedInUsername": "@hima-vamsi-katta",
+      "linkedInProfile": "https://www.linkedin.com/in/hima-vamsi-katta/",
+      "designation": "Co-Organizer",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/hima-vamsi-katta.jpg"
+    },
+    {
+      "name": "Daksh Kaza",
+      "email": "dakshcane@gmail.com",
+      "linkedInUsername": "N/A",
+      "linkedInProfile": "#",
+      "designation": "Organizing Committee Head",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/daksh-kaza.jpg"
+    },
+    {
+      "name": "Amay Bhattacharya",
+      "email": "amay.bhattacharya@gmail.com",
+      "linkedInUsername": "@amay-bhattacharya",
+      "linkedInProfile": "https://www.linkedin.com/in/amay-bhattacharya/",
+      "designation": "Design Lead",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/amay-bhattacharya.jpeg"
+    },
+    {
+      "name": "Arvesh Borkar",
+      "email": "arvesh.borkar@gmail.com",
+      "linkedInUsername": "@arveshborkar",
+      "linkedInProfile": "https://www.linkedin.com/in/arveshborkar/",
+      "designation": "Marketing Lead",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/arvesh-borkar.jpeg"
+    },
+    {
+      "name": "D.S.S. Prajwal Sarma",
+      "email": "saiprajwal2509@gmail.com",
+      "linkedInUsername": "@prajwaldoranala",
+      "linkedInProfile": "https://www.linkedin.com/in/prajwaldoranala/",
+      "designation": "Sponsorship Liaison",
+      "imgSrc": "/city/hyderabad/team-pictures/core-team/prajwal-doranala.jpg"
+    }
+  ],
+  "volunteers": [
+    {
+      "name": "Akshay Lokerao",
+      "linkedInUsername": "@akshay-lokerao",
+      "linkedInProfile": "https://www.linkedin.com/in/akshay-lokerao-b142112b2/",
+      "imgSrc": "/city/hyderabad/team-pictures/volunteers/akshay-lokerao.jpg"
+    },
+    {
+      "name": "Avyay Lokerao",
+      "linkedInUsername": "@avyay-lokerao",
+      "linkedInProfile": "https://www.linkedin.com/in/avyay-lokerao-204a4a314/",
+      "imgSrc": "/city/hyderabad/team-pictures/volunteers/avyay-lokerao.jpg"
+    }
+  ]
+}
