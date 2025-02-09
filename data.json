@@ -2,7 +2,7 @@
   "goldSponsors": [
     {
       "href": "#",
-      "imgSrc": "/city/hyderabad/sponsors/placeholder.png",
+      "imgSrc": "https://i.ibb.co/LdfYRZLZ/placeholder.png",
       "alt": "Place Holder Sponsorship Image",
       "name": "This Could Be You!"
     }
@@ -10,7 +10,7 @@
   "silverSponsors": [
     {
       "href": "#",
-      "imgSrc": "/city/hyderabad/sponsors/placeholder.png",
+      "imgSrc": "https://i.ibb.co/LdfYRZLZ/placeholder.png",
       "alt": "Place Holder Sponsorship Image",
       "name": "This Could Be You!"
     }
@@ -18,7 +18,7 @@
   "bronzeSponsors": [
     {
       "href": "https://www.linuxfoundation.org/",
-      "imgSrc": "/city/hyderabad/sponsors/the-linux-foundation.png",
+      "imgSrc": "https://i.ibb.co/5gQZPxyG/the-linux-foundation.png",
       "alt": "The Linux Foundation",
       "name": "The Linux Foundation"
     }
@@ -26,13 +26,13 @@
   "inKindSponsors": [
     {
       "href": "https://gen.xyz/",
-      "imgSrc": "/city/hyderabad/sponsors/gen-xyz.png",
+      "imgSrc": "https://i.ibb.co/Qv6DRLhT/gen-xyz.png",
       "alt": ".xyz Domains",
       "name": ".xyz Domains"
     },
     {
       "href": "https://www.bluecloudsoftech.com/",
-      "imgSrc": "/city/hyderabad/sponsors/blue-cloud-softech.png",
+      "imgSrc": "https://i.ibb.co/Zp3sKX7K/blue-cloud-softech.png",
       "alt": "Blue Cloud Softech",
       "name": "Blue Cloud Softech"
     }
@@ -44,7 +44,7 @@
       "linkedInUsername": "@sannihithmadasu",
       "linkedInProfile": "https://www.linkedin.com/in/sannihithmadasu/",
       "designation": "Lead Organizer",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/sannihith-madasu.jpeg"
+      "imgSrc": "https://i.ibb.co/VYf1c08T/sannihith-madasu.jpg"
     },
     {
       "name": "Atharv Kopparthi",
@@ -52,7 +52,7 @@
       "linkedInUsername": "N/A",
       "linkedInProfile": "#",
       "designation": "Co-Organizer",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/atharv-kopparthi.jpg"
+      "imgSrc": "https://i.ibb.co/4nvDS20Y/atharv-kopparthi.jpg"
     },
     {
       "name": "Katta Hima Vamsi",
@@ -60,7 +60,7 @@
       "linkedInUsername": "@hima-vamsi-katta",
       "linkedInProfile": "https://www.linkedin.com/in/hima-vamsi-katta/",
       "designation": "Co-Organizer",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/hima-vamsi-katta.jpg"
+      "imgSrc": "https://i.ibb.co/jZbpFnZh/hima-vamsi-katta.jpg"
     },
     {
       "name": "Daksh Kaza",
@@ -68,7 +68,7 @@
       "linkedInUsername": "N/A",
       "linkedInProfile": "#",
       "designation": "Organizing Committee Head",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/daksh-kaza.jpg"
+      "imgSrc": "https://i.ibb.co/8gqs9H2f/daksh-kaza.jpg"
     },
     {
       "name": "Amay Bhattacharya",
@@ -76,7 +76,7 @@
       "linkedInUsername": "@amay-bhattacharya",
       "linkedInProfile": "https://www.linkedin.com/in/amay-bhattacharya/",
       "designation": "Design Lead",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/amay-bhattacharya.jpeg"
+      "imgSrc": "https://i.ibb.co/PzcrywhL/amay-bhattacharya.jpg"
     },
     {
       "name": "Arvesh Borkar",
@@ -84,7 +84,7 @@
       "linkedInUsername": "@arveshborkar",
       "linkedInProfile": "https://www.linkedin.com/in/arveshborkar/",
       "designation": "Marketing Lead",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/arvesh-borkar.jpeg"
+      "imgSrc": "https://i.ibb.co/Mkrcpvmw/arvesh-borkar.jpg"
     },
     {
       "name": "D.S.S. Prajwal Sarma",
@@ -92,7 +92,7 @@
       "linkedInUsername": "@prajwaldoranala",
       "linkedInProfile": "https://www.linkedin.com/in/prajwaldoranala/",
       "designation": "Sponsorship Liaison",
-      "imgSrc": "/city/hyderabad/team-pictures/core-team/prajwal-doranala.jpg"
+      "imgSrc": "https://i.ibb.co/PZptPjrk/prajwal-doranala.jpg"
     }
   ],
   "volunteers": [
@@ -100,13 +100,13 @@
       "name": "Akshay Lokerao",
       "linkedInUsername": "@akshay-lokerao",
       "linkedInProfile": "https://www.linkedin.com/in/akshay-lokerao-b142112b2/",
-      "imgSrc": "/city/hyderabad/team-pictures/volunteers/akshay-lokerao.jpg"
+      "imgSrc": "https://i.ibb.co/3m7h1QVd/akshay-lokerao.jpg"
     },
     {
       "name": "Avyay Lokerao",
       "linkedInUsername": "@avyay-lokerao",
       "linkedInProfile": "https://www.linkedin.com/in/avyay-lokerao-204a4a314/",
-      "imgSrc": "/city/hyderabad/team-pictures/volunteers/avyay-lokerao.jpg"
+      "imgSrc": "https://i.ibb.co/PvY9ZbmF/avyay-lokerao.jpg"
     }
   ]
 }
