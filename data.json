@@ -21,6 +21,12 @@
       "imgSrc": "https://i.ibb.co/5gQZPxyG/the-linux-foundation.png",
       "alt": "The Linux Foundation",
       "name": "The Linux Foundation"
+    },
+    {
+      "href": "https://github.com/",
+      "imgSrc": "https://i.ibb.co/TDX1RpHD/github-mark.png",
+      "alt": "Github",
+      "name": Github
     }
   ],
   "inKindSponsors": [
