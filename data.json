@@ -1,48 +1,88 @@
 {
-  "goldSponsors": [
-    {
-      "href": "#",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/placeholder.png",
-      "alt": "Place Holder Sponsorship Image",
-      "name": "This Could Be You!"
-    }
+  "schedule": [
+    { "time": "11:00 AM", "event": "Doors open" },
+    { "time": "12:00 PM", "event": "Opening ceremony" },
+    { "time": "12:30 PM", "event": "Team formation" },
+    { "time": "1:30 PM", "event": "Lunch" },
+    { "time": "2:15 PM", "event": "Work Session 1" },
+    { "time": "3:15 PM", "event": "Workshop 1" },
+    { "time": "4:15 PM", "event": "Work Session 2" },
+    { "time": "7:30 PM", "event": "Workshop 2" },
+    { "time": "8:30 PM", "event": "Dinner" },
+    { "time": "9:15 PM", "event": "Workshop 3" },
+    { "time": "10:15 PM", "event": "Work Session 3" },
+    { "time": "12:00 AM", "event": "Midnight surprise" },
+    { "time": "1:00 AM", "event": "Work Session 4" },
+    { "time": "8:30 AM", "event": "Submission" },
+    { "time": "9:30 AM", "event": "Judging" },
+    { "time": "10:30 AM", "event": "Awards Ceremony & Closing Ceremony" }
   ],
-  "silverSponsors": [
-    {
-      "href": "#",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/placeholder.png",
-      "alt": "Place Holder Sponsorship Image",
-      "name": "This Could Be You!"
-    }
-  ],
-  "bronzeSponsors": [
-    {
-      "href": "https://www.linuxfoundation.org/",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/the-linux-foundation.png",
-      "alt": "The Linux Foundation",
-      "name": "The Linux Foundation"
+  "sponsors": {
+    "gold": {
+      "sectionName": "Gold Sponsors",
+      "color": "#FFD700",
+      "underlineSrc": "/elements/doodles/yellow-underline.svg",
+      "entries": [
+        {
+          "href": "#",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/placeholder.png",
+          "alt": "Place Holder Sponsorship Image",
+          "name": "This Could Be You!"
+        }
+      ]
     },
-    {
-      "href": "https://github.com/",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/github.png",
-      "alt": "Github",
-      "name": "Github"
-    }
-  ],
-  "inKindSponsors": [
-    {
-      "href": "https://gen.xyz/",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/gen-xyz.png",
-      "alt": ".xyz Domains",
-      "name": ".xyz Domains"
+    "silver": {
+      "sectionName": "Silver Sponsors",
+      "color": "#C0C0C0",
+      "underlineSrc": "/city/hyderabad/elements/silver-underline.svg",
+      "entries": [
+        {
+          "href": "#",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/placeholder.png",
+          "alt": "Place Holder Sponsorship Image",
+          "name": "This Could Be You!"
+        }
+      ]
     },
-    {
-      "href": "https://www.bluecloudsoftech.com/",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/blue-cloud-softech.png",
-      "alt": "Blue Cloud Softech",
-      "name": "Blue Cloud Softech"
+    "bronze": {
+      "sectionName": "Bronze Sponsors",
+      "color": "#F98971",
+      "underlineSrc": "/city/hyderabad/elements/bronze-underline.svg",
+      "entries": [
+        {
+          "href": "https://www.linuxfoundation.org/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/the-linux-foundation.png",
+          "alt": "The Linux Foundation",
+          "name": "The Linux Foundation"
+        },
+        {
+          "href": "https://github.com/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/github.png",
+          "alt": "Github",
+          "name": "Github"
+        }
+      ]
+    },
+    "inKind": {
+      "sectionName": "In-Kind Sponsors",
+      "color": "white",
+      "underlineSrc": "/elements/doodles/blue-underline.svg",
+      "entries": [
+        {
+          "href": "https://gen.xyz/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/gen-xyz.png",
+          "alt": ".xyz Domains",
+          "name": ".xyz Domains"
+        },
+        {
+          "href": "https://www.bluecloudsoftech.com/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/blue-cloud-softech.png",
+          "alt": "Blue Cloud Softech",
+          "name": "Blue Cloud Softech"
+        }
+      ]
     }
-  ],
+  },
   "ourTeam": [
     {
       "name": "Sannihith Madasu",
@@ -75,30 +115,6 @@
       "linkedInProfile": "#",
       "designation": "Organizing Committee Head",
       "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/daksh-kaza.jpg"
-    },
-    {
-      "name": "Amay Bhattacharya",
-      "email": "amay.bhattacharya@gmail.com",
-      "linkedInUsername": "@amay-bhattacharya",
-      "linkedInProfile": "https://www.linkedin.com/in/amay-bhattacharya/",
-      "designation": "Design Lead",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/amay-bhattacharya.jpg"
-    },
-    {
-      "name": "Arvesh Borkar",
-      "email": "arvesh.borkar@gmail.com",
-      "linkedInUsername": "@arveshborkar",
-      "linkedInProfile": "https://www.linkedin.com/in/arveshborkar/",
-      "designation": "Marketing Lead",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/arvesh-borkar.jpg"
-    },
-    {
-      "name": "D.S.S. Prajwal Sarma",
-      "email": "saiprajwal2509@gmail.com",
-      "linkedInUsername": "@prajwaldoranala",
-      "linkedInProfile": "https://www.linkedin.com/in/prajwaldoranala/",
-      "designation": "Sponsorship Liaison",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/prajwal-doranala.jpg"
     }
   ],
   "volunteers": [
