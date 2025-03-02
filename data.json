@@ -81,6 +81,19 @@
           "name": "Blue Cloud Softech"
         }
       ]
+    },
+    "partners": {
+      "sectionName": "Partners",
+      "color": "white",
+      "underlineSrc": "/elements/doodles/blue-underline.svg",
+      "entries": [
+        {
+          "href": "https://www.instagram.com/sreenidhi_photography_club/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/sreenidhi-photography-club.png",
+          "alt": "Sreenidhi Photography Club",
+          "name": "Sreenidhi Photography Club"
+        },
+      ]
     }
   },
   "ourTeam": [
