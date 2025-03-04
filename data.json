@@ -128,6 +128,30 @@
       "linkedInProfile": "#",
       "designation": "Organizing Committee Head",
       "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/daksh-kaza.jpg"
+    },
+    {
+      "name": "Amay Bhattacharya",
+      "email": "amay.bhattacharya@gmail.com",
+      "linkedInUsername": "@amay-bhattacharya",
+      "linkedInProfile": "https://www.linkedin.com/in/amay-bhattacharya/",
+      "designation": "Design Lead",
+      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/amay-bhattacharya.jpg"
+    },
+    {
+      "name": "Arvesh Borkar",
+      "email": "arvesh.borkar@gmail.com",
+      "linkedInUsername": "@arveshborkar",
+      "linkedInProfile": "https://www.linkedin.com/in/arveshborkar/",
+      "designation": "Marketing Lead",
+      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/arvesh-borkar.jpg"
+    },
+    {
+      "name": "D.S.S. Prajwal Sarma",
+      "email": "saiprajwal2509@gmail.com",
+      "linkedInUsername": "@prajwaldoranala",
+      "linkedInProfile": "https://www.linkedin.com/in/prajwaldoranala/",
+      "designation": "Sponsorship Liaison",
+      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/prajwal-doranala.jpg"
     }
   ],
   "volunteers": [
