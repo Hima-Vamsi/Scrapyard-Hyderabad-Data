@@ -37,10 +37,10 @@
       "underlineSrc": "/city/hyderabad/elements/silver-underline.svg",
       "entries": [
         {
-          "href": "#",
-          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/placeholder.png",
-          "alt": "Place Holder Sponsorship Image",
-          "name": "This Could Be You!"
+          "href": "https://github.com/",
+          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/github.png",
+          "alt": "Github",
+          "name": "Github"
         }
       ]
     },
@@ -54,12 +54,6 @@
           "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/the-linux-foundation.png",
           "alt": "The Linux Foundation",
           "name": "The Linux Foundation"
-        },
-        {
-          "href": "https://github.com/",
-          "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/sponsors/github.png",
-          "alt": "Github",
-          "name": "Github"
         }
       ]
     },
