@@ -154,6 +154,14 @@
       "linkedInProfile": "https://www.linkedin.com/in/lohit-reddy-maddu-28182b290/",
       "designation": "Finance Lead",
       "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/core-team/lohit-reddy-maddu.jpg"
+    },
+    {
+      "name": "E.V Aryan",
+      "email": "aryan24.elati@gmail.com",
+      "linkedInUsername": "@aryan-e-v",
+      "linkedInProfile": "https://www.linkedin.com/in/aryan-e-v-/",
+      "designation": "Legal Head",
+      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/volunteers/aryan-e-v.jpg"
     }
   ],
   "volunteers": [
@@ -168,12 +176,6 @@
       "linkedInUsername": "@avyay-lokerao",
       "linkedInProfile": "https://www.linkedin.com/in/avyay-lokerao-204a4a314/",
       "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/volunteers/avyay-lokerao.jpg"
-    },
-    {
-      "name": "E.V Aryan",
-      "linkedInUsername": "@aryan-e-v",
-      "linkedInProfile": "https://www.linkedin.com/in/aryan-e-v-/",
-      "imgSrc": "https://raw.githubusercontent.com/Hima-Vamsi/Scrapyard-Hyderabad-Data/refs/heads/master/team-pictures/volunteers/aryan-e-v.jpg"
     }
   ]
 }
